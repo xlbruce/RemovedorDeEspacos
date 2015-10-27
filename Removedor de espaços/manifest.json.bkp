@@ -1,0 +1,10 @@
+{
+  "name": "Minha extensão",
+  "manifest_version": 2,
+  "version": "0.1",
+  "browser_action": {
+    "default_icon": "icon128.png",
+    "default_popup": "popup.html",
+    "default_title": "Minha extensão"    
+  }  
+}

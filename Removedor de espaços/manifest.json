@@ -1,0 +1,14 @@
+{
+  "name": "Removedor de espaços",
+  "manifest_version": 2,  
+  "version": "0.1",
+  "description": "Extensão que remove todos os espaços de uma URL",
+  "browser_action": {
+    "default_popup": "popup.html",
+    "default_icon": "icon48.png"
+  },
+  "icons": {
+    "48": "icon48.png",
+    "128": "icon128.png"
+  }
+}
